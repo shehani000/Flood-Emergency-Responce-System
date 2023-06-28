@@ -1,16 +1,3 @@
-# fers
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flood Emergency Responce System
+![Screenshot_1687934472](https://github.com/shehani000/Flood-Emergency-Responce-System/assets/72043717/0346641c-cadc-4205-87ee-40df8837af12)
+![Screenshot_1687934476](https://github.com/shehani000/Flood-Emergency-Responce-System/assets/72043717/a583eda9-1fc3-4be1-8913-67986dbc443d)
